@@ -1,8 +1,6 @@
 //
 //  MathParser.c
 //
-//  Created by Peter on 31.03.17.
-//  Copyright © 2017 peter. All rights reserved.
 //
 
 #include <stdio.h>
